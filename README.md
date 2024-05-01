@@ -1,4 +1,5 @@
-# Fase1-230528-SanViviano
+# Fase1-230528-SanViviano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-sanviviano_1041691))
+Ricognizione a San Viviano per definire accessibilità ed interesse per il progetto
 ## Percorso: Nuovo tracciato 28/05/23 15:22:24 da catino
 *Non è disponibile l'immagine dell'accesso al percorso* 
 
