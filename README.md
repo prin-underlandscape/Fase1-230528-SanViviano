@@ -1,8 +1,7 @@
-# Fase1-230528-SanViviano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-sanviviano_1041691?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230528-SanViviano (mappa non collegata)
 Ricognizione a San Viviano per definire accessibilità ed interesse per il progetto
 ## Percorso: Nuovo tracciato 28/05/23 15:46:52 all'eremo
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
+****
 ## POI: Gola
 [<img src='/vignettes/d388a589-ef4d-4be9-b2ff-369dd104b006.jpg' width='250'/>](/vignettes/d388a589-ef4d-4be9-b2ff-369dd104b006.jpg) 
 
@@ -39,6 +38,3 @@ Ricognizione a San Viviano per definire accessibilità ed interesse per il proge
 [<img src='/vignettes/6ef5c225-3f6b-447b-b591-198875146613.jpg' width='250'/>](/vignettes/6ef5c225-3f6b-447b-b591-198875146613.jpg) 
 
 ****
-## Percorso: rientro da catino
-*Non è disponibile l'immagine dell'accesso al percorso* 
-
