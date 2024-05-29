@@ -1,4 +1,4 @@
-# Fase1-230528-SanViviano (mappa non collegata)
+# Fase1-230528-SanViviano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-sanviviano_1041691?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
 Ricognizione a San Viviano per definire accessibilità ed interesse per il progetto
 ## Percorso: Nuovo tracciato 28/05/23 15:46:52 all'eremo
 ****
