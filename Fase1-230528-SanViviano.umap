@@ -5236,7 +5236,7 @@
           },
           "properties": {
             "ulsp_type": "Percorso",
-            "Titolo": "Nuovo tracciato 28/05/23 15:46:52 all'eremo",
+            "Titolo": "Campocatino-Eremo San Viano",
             "Data": "2023-05-28",
             "Ora": "13:46:52Z",
             "Strumento": "Android HUAWEI FIG-LX1",
@@ -5244,20 +5244,20 @@
             "Durata": "02h 44m",
             "Dislivello in salita": "337",
             "Dislivello in discesa": "319",
-            "Provincia": "",
-            "Comune": "",
+            "Provincia": "Lucca",
+            "Comune": "Vagli di Sotto",
             "Punto d'accesso": "",
             "Foto accesso": "",
-            "Descrizione": "",
-            "Difficoltà": "",
-            "Segnaletica": "",
-            "Copertura GPS": "",
-            "Copertura rete mobile": "",
+            "Descrizione": "Sopralluogo per individuare l'Eremo di San Viano partendo dal sito di Campocatino",
+            "Difficoltà": "Facile",
+            "Segnaletica": "Congruente",
+            "Copertura GPS": "Completa",
+            "Copertura rete mobile": "Completa",
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         }
       ],
@@ -5300,7 +5300,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5315,23 +5315,20 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/d1ab2902-c490-4f56-b9cd-69385375535c/image/full/?publickey=UOwssoRJuxPgFBFXDCEAir3H",
-            "Titolo": "Eremo",
+            "Titolo": "Eremo di San Viano",
             "Descrizione": "",
-            "Altitudine": 0,
+            "Altitudine": "",
             "Data": "2023-05-28",
             "Ora": "14:55:46Z",
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
-            "Tag primario": "Monumento",
+            "Tag primario": "",
             "Altri tag": [],
             "_umap_options": {
-              "popupTemplate": "Default",
-              "color": "MediumBlue",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/monument.svg"
+              "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5346,7 +5343,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/9ec1e84a-de2a-4ce2-810b-15662a5408ab/image/full/?publickey=8bb24yar41GMI5uqBY6f2lZ0",
-            "Titolo": "Campo catino",
+            "Titolo": "Campocatino",
             "Descrizione": "",
             "Altitudine": 1077,
             "Data": "2023-05-28",
@@ -5359,7 +5356,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5374,7 +5371,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/fb29c922-e6ac-425f-b397-fdfb4c63ed36/image/full/?publickey=68tYQeb4oJL0qPjeB5C9CMeS",
-            "Titolo": "Segnale",
+            "Titolo": "Segnaletica",
             "Descrizione": "",
             "Altitudine": 1073,
             "Data": "2023-05-28",
@@ -5382,12 +5379,14 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Segnaletica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5415,7 +5414,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5430,7 +5429,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/5bf2b8da-7e88-433d-a0c9-0d2e3060fe6d/image/full/?publickey=dJXBvnlF93x2D4Kizmu7IuJ5",
-            "Titolo": "Eremi",
+            "Titolo": "Interno eremo",
             "Descrizione": "",
             "Altitudine": 0,
             "Data": "2023-05-28",
@@ -5443,7 +5442,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5466,12 +5465,14 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Attrazione naturalistica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5486,7 +5487,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/87debb88-9ee5-4431-b311-e37b0b5933b7/image/full/?publickey=72hU69CqnhpyscQI8PKxIZIL",
-            "Titolo": "Croci",
+            "Titolo": "Croci incise",
             "Descrizione": "",
             "Altitudine": 1147,
             "Data": "2023-05-28",
@@ -5499,7 +5500,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -5514,7 +5515,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/6ef5c225-3f6b-447b-b591-198875146613/image/full/?publickey=XXoKDX0D6fQeNS0gekC950cv",
-            "Titolo": "Iscrizione esterno s viviano",
+            "Titolo": "Iscrizione all'esterno dell'eremo",
             "Descrizione": "",
             "Altitudine": 1134,
             "Data": "2023-05-28",
@@ -5527,7 +5528,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230528-SanViviano",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         }
       ],
@@ -5571,6 +5572,21 @@
         "popupShape": "Panel",
         "popupTemplate": "Table",
         "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Risorsa",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
