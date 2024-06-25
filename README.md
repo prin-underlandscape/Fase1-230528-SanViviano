@@ -1,4 +1,4 @@
-# Fase1-230528-SanViviano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-sanviviano_1041691?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230528-SanViviano ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230528-sanviviano_1041691))
 Ricognizione all'eremo di San Viano per definire accessibilità ed interesse per il progetto
 ## Percorso: Campocatino-Eremo San Viano
 **Sopralluogo per individuare l'Eremo di San Viano partendo dal sito di Campocatino**

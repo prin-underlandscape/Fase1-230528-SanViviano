@@ -5588,13 +5588,29 @@
         "popupTemplate": "Table",
         "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Itinerario",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Green",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n## Itinerario {Tipologia}\n   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}| Download ]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa}"
+      }
     }
   ],
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.251808,
-      44.112622
+      10.25909,
+      44.121467,
+      1044.479030597955,
+      1685281614
     ]
   }
 }
