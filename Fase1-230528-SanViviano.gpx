@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.113014" lon="10.250998">
+    <ele>500</ele>
+    <name>Gola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.121148" lon="10.287882">
+    <ele>500</ele>
+    <name>Eremo di San Viano</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.119754" lon="10.256704">
+    <ele>500</ele>
+    <name>Campocatino</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.119676" lon="10.256656">
+    <ele>500</ele>
+    <name>Segnaletica</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.113034" lon="10.252548">
+    <ele>500</ele>
+    <name>Cave</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.12348" lon="10.307519">
+    <ele>500</ele>
+    <name>Interno eremo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.112699" lon="10.252158">
+    <ele>500</ele>
+    <name>Pianta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.112692" lon="10.252171">
+    <ele>500</ele>
+    <name>Croci incise</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.112622" lon="10.251808">
+    <ele>500</ele>
+    <name>Iscrizione all'esterno dell'eremo</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Campocatino-Eremo San Viano</name>
+    <desc>Sopralluogo per individuare l'Eremo di San Viano partendo dal sito di Campocatino</desc>
+    <trkseg>
+      <trkpt lat="[10.259031, 44.121479, 1043.9166755499318, 1685281618]" lon="[10.25909, 44.121467, 1044.479030597955, 1685281614]">
+        <ele>[10.258975, 44.121514, 1044.4170828619972, 1685281623]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
